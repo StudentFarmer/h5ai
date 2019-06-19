@@ -60,9 +60,9 @@
     */
     "view": {
         "binaryPrefix": false,
-        "disableSidebar": false,
-        "fallbackMode": false,
-        "fastBrowsing": true,
+        "disableSidebar": true,
+        "fallbackMode": true,
+        "fastBrowsing": false,
         "fonts": ["Ubuntu", "Roboto", "Helvetica", "Arial", "sans-serif"],
         "fontsMono": ["Ubuntu Mono", "Monaco", "Lucida Sans Typewriter", "monospace"],
         "hidden": ["^\\.", "^_h5ai"],
@@ -202,7 +202,7 @@
     */
     "l10n": {
         "enabled": true,
-        "lang": "en",
+        "lang": "ko",
         "useBrowserLang": true
     },
 
